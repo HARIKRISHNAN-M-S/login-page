@@ -1,0 +1,7 @@
+ @tailwind base;
+ @tailwind components;
+ @tailwind utilities;
+ button{ border-radius: 10px;}
+ .text-black{ margin-top: -130px;
+margin-left: 50px;}
+.text-black1{ margin-left: 45px;}
